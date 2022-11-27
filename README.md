@@ -1,6 +1,6 @@
 # Interactive-CO2-Dashboard-Python
 
-## This is an interactive visualization dashboard in Python with the Panel library. The `panel` and `hvplot` libraries are 
+This is an interactive visualization dashboard in Python with the Panel library. The `panel` and `hvplot` libraries are 
 recommeneded alongside building the program in Jupyter Lab.
 
 To serve the dashboard locally, use the command:
